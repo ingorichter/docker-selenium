@@ -1,4 +1,4 @@
-NAME := selenium
+NAME := selenium-arm64v8
 VERSION := $(or $(VERSION),$(VERSION),3.4.0-francium)
 NAMESPACE := $(or $(NAMESPACE),$(NAMESPACE),$(NAME))
 AUTHORS := $(or $(AUTHORS),$(AUTHORS),SeleniumHQ)
